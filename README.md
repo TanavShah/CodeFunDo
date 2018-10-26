@@ -12,3 +12,4 @@ An offline app which sends the exact location of the person trapped in a disaste
 3. Azure Database
 4. Visual Studio
 5. Maps API
+6. ASP.NET Core 2.1
