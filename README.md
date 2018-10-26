@@ -9,7 +9,8 @@ An offline app which sends the exact location of the person trapped in a disaste
 ### Technologies Used
 1. Android Studio
 2. TextLocal.com
-3. Azure Database
+3. Azure App Services
 4. Visual Studio
 5. Maps API
 6. ASP.NET Core 2.1
+7. Azure Scheduler
