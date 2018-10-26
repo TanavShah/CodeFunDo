@@ -1,0 +1,15 @@
+D:\Projects\OneTapHelpBackend\OneTapHelpBackend\bin\Debug\netcoreapp2.1\OneTapHelpBackend.deps.json
+D:\Projects\OneTapHelpBackend\OneTapHelpBackend\bin\Debug\netcoreapp2.1\OneTapHelpBackend.runtimeconfig.json
+D:\Projects\OneTapHelpBackend\OneTapHelpBackend\bin\Debug\netcoreapp2.1\OneTapHelpBackend.runtimeconfig.dev.json
+D:\Projects\OneTapHelpBackend\OneTapHelpBackend\bin\Debug\netcoreapp2.1\OneTapHelpBackend.dll
+D:\Projects\OneTapHelpBackend\OneTapHelpBackend\bin\Debug\netcoreapp2.1\OneTapHelpBackend.pdb
+D:\Projects\OneTapHelpBackend\OneTapHelpBackend\obj\Debug\netcoreapp2.1\OneTapHelpBackend.csproj.CoreCompileInputs.cache
+D:\Projects\OneTapHelpBackend\OneTapHelpBackend\obj\Debug\netcoreapp2.1\OneTapHelpBackend.RazorAssemblyInfo.cache
+D:\Projects\OneTapHelpBackend\OneTapHelpBackend\obj\Debug\netcoreapp2.1\OneTapHelpBackend.RazorAssemblyInfo.cs
+D:\Projects\OneTapHelpBackend\OneTapHelpBackend\obj\Debug\netcoreapp2.1\OneTapHelpBackend.AssemblyInfoInputs.cache
+D:\Projects\OneTapHelpBackend\OneTapHelpBackend\obj\Debug\netcoreapp2.1\OneTapHelpBackend.AssemblyInfo.cs
+D:\Projects\OneTapHelpBackend\OneTapHelpBackend\obj\Debug\netcoreapp2.1\OneTapHelpBackend.RazorTargetAssemblyInfo.cache
+D:\Projects\OneTapHelpBackend\OneTapHelpBackend\obj\Debug\netcoreapp2.1\OneTapHelpBackend.dll
+D:\Projects\OneTapHelpBackend\OneTapHelpBackend\obj\Debug\netcoreapp2.1\OneTapHelpBackend.pdb
+D:\Projects\OneTapHelpBackend\OneTapHelpBackend\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Projects\OneTapHelpBackend\OneTapHelpBackend\obj\Debug\netcoreapp2.1\OneTapHelpBackend.csprojAssemblyReference.cache
